@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab2_Simran_C0834481_Android</string>
+    <string name="shared_preference_file">com.lab2_simran_c0834481_android.configuration</string>
+</resources>
